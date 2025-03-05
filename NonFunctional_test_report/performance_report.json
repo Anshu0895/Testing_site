@@ -1,0 +1,372 @@
+[
+  {
+    "url": "https://www.xenonstack.com/",
+    "status": 200,
+    "loadTime": "97.36"
+  },
+  {
+    "url": "https://www.xenonstack.com/neural-ai/",
+    "status": 200,
+    "loadTime": "97.41"
+  },
+  {
+    "url": "https://www.xenonstack.com/agentic-ai/",
+    "status": 200,
+    "loadTime": "97.44"
+  },
+  {
+    "url": "https://www.xenonstack.com/industries/aerospace/",
+    "status": 200,
+    "loadTime": "97.13"
+  },
+  {
+    "url": "https://www.xenonstack.com/industries/banking/",
+    "status": 200,
+    "loadTime": "97.35"
+  },
+  {
+    "url": "https://www.xenonstack.com/industries/digital-manufacturing-services/",
+    "status": 200,
+    "loadTime": "97.36"
+  },
+  {
+    "url": "https://www.xenonstack.com/industries/enterprise-technology/",
+    "status": 200,
+    "loadTime": "97.48"
+  },
+  {
+    "url": "https://www.xenonstack.com/industries/consumer-technology/",
+    "status": 200,
+    "loadTime": "97.35"
+  },
+  {
+    "url": "https://www.xenonstack.com/industries/retail/",
+    "status": 200,
+    "loadTime": "97.37"
+  },
+  {
+    "url": "https://www.xenonstack.com/industries/travel-hospitality/",
+    "status": 200,
+    "loadTime": "97.41"
+  },
+  {
+    "url": "https://www.xenonstack.com/xenonstack-academy/",
+    "status": 200,
+    "loadTime": "97.42"
+  },
+  {
+    "url": "https://www.xenonstack.com/careers/",
+    "status": 200,
+    "loadTime": "97.22"
+  },
+  {
+    "url": "https://www.xenonstack.com/blog",
+    "status": 200,
+    "loadTime": "97.42"
+  },
+  {
+    "url": "https://www.xenonstack.com/artificial-intelligence/composite-ai/",
+    "status": 200,
+    "loadTime": "97.00"
+  },
+  {
+    "url": "https://www.xenonstack.com/artificial-intelligence/decision-ai/",
+    "status": 200,
+    "loadTime": "97.40"
+  },
+  {
+    "url": "https://www.xenonstack.com/generative-ai",
+    "status": 200,
+    "loadTime": "96.82"
+  },
+  {
+    "url": "https://www.xenonstack.com/artifical-intelligence/multimodal-ai/",
+    "status": 200,
+    "loadTime": "96.98"
+  },
+  {
+    "url": "https://www.xenonstack.com/artifical-intelligence/explainable-ai/",
+    "status": 200,
+    "loadTime": "96.74"
+  },
+  {
+    "url": "https://www.xenonstack.com/artifical-intelligence/ai-augmented-software-development/",
+    "status": 200,
+    "loadTime": "96.97"
+  },
+  {
+    "url": "https://www.xenonstack.com/artificial-intelligence/generative-bi/",
+    "status": 200,
+    "loadTime": "97.47"
+  },
+  {
+    "url": "https://www.xenonstack.com/dataops/streaming-data-platform/",
+    "status": 200,
+    "loadTime": "97.43"
+  },
+  {
+    "url": "https://www.xenonstack.com/dataops/delta-lake/",
+    "status": 200,
+    "loadTime": "97.38"
+  },
+  {
+    "url": "https://www.xenonstack.com/dataops/data-catalog/",
+    "status": 200,
+    "loadTime": "97.44"
+  },
+  {
+    "url": "https://www.xenonstack.com/dataops/data-observability/",
+    "status": 200,
+    "loadTime": "97.37"
+  },
+  {
+    "url": "https://www.xenonstack.com/dataops/cloud-data-warehouse/",
+    "status": 200,
+    "loadTime": "97.03"
+  },
+  {
+    "url": "https://www.xenonstack.com/dataops/data-engineering/",
+    "status": 200,
+    "loadTime": "97.39"
+  },
+  {
+    "url": "https://www.xenonstack.com/dataops/augmented-data-quality/",
+    "status": 200,
+    "loadTime": "97.40"
+  },
+  {
+    "url": "https://www.xenonstack.com/dataops/real-time-analytics/",
+    "status": 200,
+    "loadTime": "97.38"
+  },
+  {
+    "url": "https://www.xenonstack.com/solutions/cloud-native-applications/",
+    "status": 200,
+    "loadTime": "97.46"
+  },
+  {
+    "url": "https://www.xenonstack.com/cloud-native/automation-as-code",
+    "status": 200,
+    "loadTime": "96.82"
+  },
+  {
+    "url": "https://www.xenonstack.com/cloud-native/observability/",
+    "status": 200,
+    "loadTime": "97.22"
+  },
+  {
+    "url": "https://www.xenonstack.com/cloud-native/finops/",
+    "status": 200,
+    "loadTime": "97.46"
+  },
+  {
+    "url": "https://www.xenonstack.com/cloud-native/application-modernization/",
+    "status": 200,
+    "loadTime": "97.46"
+  },
+  {
+    "url": "https://www.xenonstack.com/cloud-native/devsecops/",
+    "status": 200,
+    "loadTime": "97.06"
+  },
+  {
+    "url": "https://www.xenonstack.com/cloud-native/site-reliability-engineering/",
+    "status": 200,
+    "loadTime": "97.03"
+  },
+  {
+    "url": "https://www.xenonstack.com/cloud-native/progressive-delivery/",
+    "status": 200,
+    "loadTime": "97.36"
+  },
+  {
+    "url": "https://www.xenonstack.com/enterprise/gitops/",
+    "status": 200,
+    "loadTime": "96.99"
+  },
+  {
+    "url": "https://www.xenonstack.com/enterprise/value-stream-management/",
+    "status": 200,
+    "loadTime": "97.12"
+  },
+  {
+    "url": "https://www.xenonstack.com/cloud-native/telemetry-pipeline",
+    "status": 200,
+    "loadTime": "97.34"
+  },
+  {
+    "url": "https://www.xenonstack.com/platform-engineering/developer-experience-platform/",
+    "status": 200,
+    "loadTime": "97.47"
+  },
+  {
+    "url": "https://www.xenonstack.com/solutions/edge-and-vision-ai/",
+    "status": 200,
+    "loadTime": "97.40"
+  },
+  {
+    "url": "https://www.xenonstack.com/ai-agents/microsoft-azure-ai-agents-actions/",
+    "status": 200,
+    "loadTime": "97.39"
+  },
+  {
+    "url": "https://www.xenonstack.com/ai-agents/salesforce-agents-actions/",
+    "status": 200,
+    "loadTime": "97.39"
+  },
+  {
+    "url": "https://www.xenonstack.com/ai-agents/mysql-agents-actions/",
+    "status": 200,
+    "loadTime": "97.38"
+  },
+  {
+    "url": "https://www.xenonstack.com/ai-agents/postgresql-agents-actions/",
+    "status": 200,
+    "loadTime": "97.45"
+  },
+  {
+    "url": "https://www.xenonstack.com/ai-agents/datadog-agents-actions/",
+    "status": 200,
+    "loadTime": "97.23"
+  },
+  {
+    "url": "https://www.xenonstack.com/ai-agents/dynatrace-agents-actions/",
+    "status": 200,
+    "loadTime": "97.33"
+  },
+  {
+    "url": "https://www.xenonstack.com/ai-agents/splunk-agents-actions/",
+    "status": 200,
+    "loadTime": "97.44"
+  },
+  {
+    "url": "https://www.xenonstack.com/ai-agents/sap-agents-actions/",
+    "status": 200,
+    "loadTime": "97.32"
+  },
+  {
+    "url": "https://www.xenonstack.com/ai-agents/infor-agents-actions/",
+    "status": 200,
+    "loadTime": "97.33"
+  },
+  {
+    "url": "https://www.xenonstack.com/ai-agents/oracle-agents-actions/",
+    "status": 200,
+    "loadTime": "96.85"
+  },
+  {
+    "url": "https://www.xenonstack.com/#",
+    "status": 200,
+    "loadTime": "97.45"
+  },
+  {
+    "url": "https://www.xenonstack.com/industries/transportation-technology-solutions/",
+    "status": 200,
+    "loadTime": "97.06"
+  },
+  {
+    "url": "https://www.xenonstack.com/managed-services/managed-ai-services/",
+    "status": 200,
+    "loadTime": "97.45"
+  },
+  {
+    "url": "https://www.xenonstack.com/managed-services/kubernetes/",
+    "status": 200,
+    "loadTime": "97.32"
+  },
+  {
+    "url": "https://www.xenonstack.com/managed-services/site-reliability-engineering/",
+    "status": 200,
+    "loadTime": "97.42"
+  },
+  {
+    "url": "https://www.xenonstack.com/managed-services/big-data/",
+    "status": 200,
+    "loadTime": "96.98"
+  },
+  {
+    "url": "https://www.xenonstack.com/readiness-assessment/data-protection/",
+    "status": 200,
+    "loadTime": "97.45"
+  },
+  {
+    "url": "https://www.xenonstack.com/managed-services/on-premise-ai-cluster/",
+    "status": 200,
+    "loadTime": "97.11"
+  },
+  {
+    "url": "https://www.xenonstack.com/solutions/digital-twin/",
+    "status": 200,
+    "loadTime": "97.46"
+  },
+  {
+    "url": "https://www.xenonstack.com/readiness-assessment/",
+    "status": 200,
+    "loadTime": "97.33"
+  },
+  {
+    "url": "https://www.xenonstack.com/talk-to-specialist/",
+    "status": 200,
+    "loadTime": "97.47"
+  },
+  {
+    "url": "https://www.xenonstack.com/about-us/",
+    "status": 200,
+    "loadTime": "97.48"
+  },
+  {
+    "url": "https://www.xenonstack.com/about-us/leadership-team/",
+    "status": 200,
+    "loadTime": "97.38"
+  },
+  {
+    "url": "https://www.xenonstack.com/about-us/tao-of-xenonstack/",
+    "status": 200,
+    "loadTime": "97.00"
+  },
+  {
+    "url": "https://www.xenonstack.com/about-us/how-we-grow/",
+    "status": 200,
+    "loadTime": "97.47"
+  },
+  {
+    "url": "https://www.xenonstack.com/about-us/how-we-work/",
+    "status": 200,
+    "loadTime": "97.47"
+  },
+  {
+    "url": "https://www.xenonstack.com/insights/",
+    "status": 200,
+    "loadTime": "97.22"
+  },
+  {
+    "url": "https://www.xenonstack.com/use-cases",
+    "status": 200,
+    "loadTime": "97.47"
+  },
+  {
+    "url": "https://www.xenonstack.com/case-studies",
+    "status": 200,
+    "loadTime": "97.48"
+  },
+  {
+    "url": "https://www.xenonstack.com/videos/",
+    "status": 200,
+    "loadTime": "97.39"
+  },
+  {
+    "url": "https://www.xenonstack.com/e-book",
+    "status": 200,
+    "loadTime": "97.30"
+  },
+  {
+    "url": "https://www.xenonstack.com/presentations/",
+    "status": 200,
+    "loadTime": "97.48"
+  },
+  {
+    "url": "https://www.xenonstack.com/privacy-policy/",
+    "status": 200,
+    "loadTime": "97.30"
+  }
+]

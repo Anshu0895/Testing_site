@@ -1,0 +1,31 @@
+
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Response Time Report</title>
+    <style>
+      body { font-family: Arial, sans-serif; margin: 20px; padding: 20px; }
+      table { width: 100%; border-collapse: collapse; }
+      th, td { border: 1px solid black; padding: 10px; text-align: left; }
+      th { background-color: #f2f2f2; }
+      .passed { color: green; }
+      .failed { color: red; }
+    </style>
+  </head>
+  <body>
+    <h2>Response Time Report</h2>
+    <table>
+      <tr><th>Button Selector</th><th>Response Time</th><th>Status</th><th>Error Message</th></tr>
+      
+      <tr>
+        <td>#product-main-section-two .product-button > p</td>
+        <td>3063.33ms</td>
+        <td class="failed">Failed</td>
+        <td>Response time exceeded accepted threshold of 2000 ms.</td>
+      </tr>
+    </table>
+  </body>
+  </html>
+  

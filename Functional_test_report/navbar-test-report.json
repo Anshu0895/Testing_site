@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-03-05T03:24:23.716Z",
+    "testName": "Navbar Home",
+    "status": "PASS",
+    "message": "Navbar item Home refreshed the page."
+  },
+  {
+    "timestamp": "2025-03-05T03:24:23.873Z",
+    "testName": "Navbar Foundry",
+    "status": "FAIL",
+    "message": "Failed to scroll to Foundry section."
+  },
+  {
+    "timestamp": "2025-03-05T03:24:23.972Z",
+    "testName": "Navbar Neural AI",
+    "status": "FAIL",
+    "message": "Failed to scroll to Neural AI section."
+  },
+  {
+    "timestamp": "2025-03-05T03:24:24.138Z",
+    "testName": "Navbar NexaStack",
+    "status": "FAIL",
+    "message": "Failed to scroll to NexaStack section."
+  },
+  {
+    "timestamp": "2025-03-05T03:24:24.288Z",
+    "testName": "Navbar ElixirData",
+    "status": "FAIL",
+    "message": "Failed to scroll to ElixirData section."
+  },
+  {
+    "timestamp": "2025-03-05T03:24:24.395Z",
+    "testName": "Navbar MetaSecure",
+    "status": "FAIL",
+    "message": "Failed to scroll to MetaSecure section."
+  },
+  {
+    "timestamp": "2025-03-05T03:24:24.493Z",
+    "testName": "Navbar Akira AI",
+    "status": "FAIL",
+    "message": "Failed to scroll to Akira AI section."
+  },
+  {
+    "timestamp": "2025-03-05T03:24:24.592Z",
+    "testName": "Navbar XAI",
+    "status": "FAIL",
+    "message": "Failed to scroll to XAI section."
+  },
+  {
+    "timestamp": "2025-03-05T03:24:24.681Z",
+    "testName": "Navbar Get Started",
+    "status": "PASS",
+    "message": "Clicked Get Started"
+  },
+  {
+    "timestamp": "2025-03-05T03:24:25.278Z",
+    "testName": "Navbar Close Drawer",
+    "status": "PASS",
+    "message": "Closed drawer"
+  }
+]

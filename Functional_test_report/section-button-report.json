@@ -1,0 +1,48 @@
+{
+  "date": "2025-03-05T03:32:06.631Z",
+  "executionTime": "265.83 seconds",
+  "successCount": 7,
+  "failureCount": 1,
+  "results": [
+    {
+      "selector": "#product-main-section-one .product-button > p",
+      "status": "Success",
+      "url": "https://www.akira.ai/"
+    },
+    {
+      "selector": "#product-main-section-two .product-button > p",
+      "status": "Success",
+      "url": "https://www.elixirdata.co/"
+    },
+    {
+      "selector": "#product-main-section-three .product-button > p",
+      "status": "Success",
+      "url": "https://www.xenonstack.ai/?__hstc=268070033.a25d23692b264c844ded2afc13650824.1741145574689.1741145574689.1741145574689.1&__hssc=268070033.1.1741145574689&__hsfp=1921693487"
+    },
+    {
+      "selector": "#product-main-section-four .product-button > p",
+      "status": "Success",
+      "url": "https://nexastack.ai/"
+    },
+    {
+      "selector": ".models-cta > p",
+      "status": "Success",
+      "url": "https://akirastack.com/"
+    },
+    {
+      "selector": "#product-main-section-five .product-button",
+      "status": "Success",
+      "url": "https://metasecure.ai/"
+    },
+    {
+      "selector": "#product-main-section-six .product-button > p",
+      "status": "Success",
+      "url": "https://www.xenonstack.com/neural-ai/"
+    },
+    {
+      "selector": ".first-mid-banner-section-wrapper",
+      "status": "No Navigation",
+      "url": ""
+    }
+  ]
+}

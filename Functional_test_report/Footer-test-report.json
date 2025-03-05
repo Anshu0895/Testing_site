@@ -1,0 +1,500 @@
+[
+  {
+    "timestamp": "2025-03-05T02:53:06.171Z",
+    "testName": "Footer Links",
+    "status": "INFO",
+    "message": "Total Footer Links Found: 109"
+  },
+  {
+    "timestamp": "2025-03-05T02:53:51.287Z",
+    "testName": "",
+    "status": "ERROR",
+    "message": "Error checking external link 'https://www.youtube.com/c/XenonStackOfficial': timeout of 15000ms exceeded"
+  },
+  {
+    "timestamp": "2025-03-05T02:53:51.356Z",
+    "testName": "",
+    "status": "ERROR",
+    "message": "Error checking external link 'https://www.linkedin.com/company/xenonstack/': read ECONNRESET"
+  },
+  {
+    "timestamp": "2025-03-05T02:53:52.074Z",
+    "testName": "",
+    "status": "PASS",
+    "message": "External link 'https://github.com/xenonstack' is valid."
+  },
+  {
+    "timestamp": "2025-03-05T02:54:37.144Z",
+    "testName": "",
+    "status": "ERROR",
+    "message": "Error checking external link 'https://twitter.com/xenonstack': timeout of 15000ms exceeded"
+  },
+  {
+    "timestamp": "2025-03-05T02:54:39.121Z",
+    "testName": "",
+    "status": "PASS",
+    "message": "External link 'https://medium.com/@xenonstack' is valid."
+  },
+  {
+    "timestamp": "2025-03-05T02:55:24.196Z",
+    "testName": "",
+    "status": "ERROR",
+    "message": "Error checking external link 'https://www.instagram.com/teamxenonstack/': timeout of 15000ms exceeded"
+  },
+  {
+    "timestamp": "2025-03-05T02:56:14.729Z",
+    "testName": "Composite AI",
+    "status": "PASS",
+    "message": "Internal link 'Composite AI' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:56:21.153Z",
+    "testName": "Decision AI",
+    "status": "PASS",
+    "message": "Internal link 'Decision AI' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:56:24.841Z",
+    "testName": "AI Quality",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T02:57:07.900Z",
+    "testName": "Generative AI",
+    "status": "PASS",
+    "message": "Internal link 'Generative AI' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:57:13.568Z",
+    "testName": "Multimodal AI",
+    "status": "PASS",
+    "message": "Internal link 'Multimodal AI' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:57:20.742Z",
+    "testName": "AI Assurance",
+    "status": "PASS",
+    "message": "Internal link 'AI Assurance' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:57:23.942Z",
+    "testName": "MLOps",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T02:57:23.967Z",
+    "testName": "Physical AI",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T02:57:28.431Z",
+    "testName": "Augmented Engineering",
+    "status": "PASS",
+    "message": "Internal link 'Augmented Engineering' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:57:36.708Z",
+    "testName": "Generative BI",
+    "status": "PASS",
+    "message": "Internal link 'Generative BI' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:57:43.792Z",
+    "testName": "Streaming Data Platform",
+    "status": "PASS",
+    "message": "Internal link 'Streaming Data Platform' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:57:50.641Z",
+    "testName": "Data Lakehouse",
+    "status": "PASS",
+    "message": "Internal link 'Data Lakehouse' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:57:56.641Z",
+    "testName": "Data Catalog",
+    "status": "PASS",
+    "message": "Internal link 'Data Catalog' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:58:03.076Z",
+    "testName": "Data Observability",
+    "status": "PASS",
+    "message": "Internal link 'Data Observability' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:58:11.014Z",
+    "testName": "Cloud Data Warehouse",
+    "status": "PASS",
+    "message": "Internal link 'Cloud Data Warehouse' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:58:17.163Z",
+    "testName": "Data Engineering",
+    "status": "PASS",
+    "message": "Internal link 'Data Engineering' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:58:19.218Z",
+    "testName": "MetaData Management",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T02:58:22.303Z",
+    "testName": "Data Quality",
+    "status": "PASS",
+    "message": "Internal link 'Data Quality' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:58:29.838Z",
+    "testName": "Real Time Analytics",
+    "status": "PASS",
+    "message": "Internal link 'Real Time Analytics' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:58:35.265Z",
+    "testName": "Data Modernization",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T02:59:04.291Z",
+    "testName": "Cloud Native",
+    "status": "PASS",
+    "message": "Internal link 'Cloud Native' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:59:09.566Z",
+    "testName": "Automation As Code",
+    "status": "PASS",
+    "message": "Internal link 'Automation As Code' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:59:17.102Z",
+    "testName": "Observability",
+    "status": "PASS",
+    "message": "Internal link 'Observability' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:59:23.669Z",
+    "testName": "FinOps",
+    "status": "PASS",
+    "message": "Internal link 'FinOps' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:59:29.386Z",
+    "testName": "Application Modernization",
+    "status": "PASS",
+    "message": "Internal link 'Application Modernization' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:59:38.416Z",
+    "testName": "DevSecOps",
+    "status": "PASS",
+    "message": "Internal link 'DevSecOps' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:59:45.133Z",
+    "testName": "Site Reliability Engineering",
+    "status": "PASS",
+    "message": "Internal link 'Site Reliability Engineering' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T02:59:52.164Z",
+    "testName": "Progressive Delivery",
+    "status": "PASS",
+    "message": "Internal link 'Progressive Delivery' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:00:00.740Z",
+    "testName": "GitOps",
+    "status": "PASS",
+    "message": "Internal link 'GitOps' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:00:04.442Z",
+    "testName": "Compliance as code",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:00:07.192Z",
+    "testName": "Value Stream Management",
+    "status": "PASS",
+    "message": "Internal link 'Value Stream Management' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:00:12.442Z",
+    "testName": "Policy as Code",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:00:16.235Z",
+    "testName": "Telemetry Pipeline",
+    "status": "PASS",
+    "message": "Internal link 'Telemetry Pipeline' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:00:22.004Z",
+    "testName": "Agentic Analytics",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:00:22.037Z",
+    "testName": "Agentic AI Systems",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:00:22.062Z",
+    "testName": "Process Intelligence",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:00:25.503Z",
+    "testName": "Developer Experience",
+    "status": "PASS",
+    "message": "Internal link 'Developer Experience' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:00:35.097Z",
+    "testName": "Autonomous Operations",
+    "status": "PASS",
+    "message": "Internal link 'Autonomous Operations' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:01:24.825Z",
+    "testName": "AI Vision at EDGE",
+    "status": "PASS",
+    "message": "Internal link 'AI Vision at EDGE' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:01:26.881Z",
+    "testName": "Compound AI System",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:01:26.926Z",
+    "testName": "GUI Agents",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:01:26.959Z",
+    "testName": "CMDB Management",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:01:26.990Z",
+    "testName": "ITSM",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:01:27.014Z",
+    "testName": "Network Automation",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:01:27.042Z",
+    "testName": "DataBricks AI Agents",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:01:27.063Z",
+    "testName": "SnowFlake AI Agents",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:01:27.088Z",
+    "testName": "ServiceNow AI Agents",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:01:27.109Z",
+    "testName": "AWS AI Agents",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:01:30.089Z",
+    "testName": "Microsoft Azure AI Agents",
+    "status": "PASS",
+    "message": "Internal link 'Microsoft Azure AI Agents' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:01:37.246Z",
+    "testName": "SalesForce AI Agents",
+    "status": "PASS",
+    "message": "Internal link 'SalesForce AI Agents' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:01:40.853Z",
+    "testName": "Microsoft Dynamics AI Agents",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:02:12.927Z",
+    "testName": "MySQL AI Agents",
+    "status": "PASS",
+    "message": "Internal link 'MySQL AI Agents' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:02:20.979Z",
+    "testName": "PostgreSQL AI Agents",
+    "status": "PASS",
+    "message": "Internal link 'PostgreSQL AI Agents' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:02.910Z",
+    "testName": "Datadog AI Agents",
+    "status": "PASS",
+    "message": "Internal link 'Datadog AI Agents' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:08.829Z",
+    "testName": "DynaTrace AI Agents",
+    "status": "PASS",
+    "message": "Internal link 'DynaTrace AI Agents' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:14.904Z",
+    "testName": "Splunk AI Agents",
+    "status": "PASS",
+    "message": "Internal link 'Splunk AI Agents' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:17.029Z",
+    "testName": "BigQuery AI Agents",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:19.510Z",
+    "testName": "SAP AI Agents",
+    "status": "PASS",
+    "message": "Internal link 'SAP AI Agents' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:24.709Z",
+    "testName": "Infor AI Agents",
+    "status": "PASS",
+    "message": "Internal link 'Infor AI Agents' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:29.928Z",
+    "testName": "Oracle AI Agents",
+    "status": "PASS",
+    "message": "Internal link 'Oracle AI Agents' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:32.074Z",
+    "testName": "WorkDay AI Agents",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:32.132Z",
+    "testName": "Jira AI Agents",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:35.776Z",
+    "testName": "Aerospace and Aviation",
+    "status": "PASS",
+    "message": "Internal link 'Aerospace and Aviation' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:40.390Z",
+    "testName": "Financial Services",
+    "status": "PASS",
+    "message": "Internal link 'Financial Services' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:44.687Z",
+    "testName": "Automotive And Industrial",
+    "status": "PASS",
+    "message": "Internal link 'Automotive And Industrial' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:49.896Z",
+    "testName": "Consumer Tech",
+    "status": "PASS",
+    "message": "Internal link 'Consumer Tech' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:54.674Z",
+    "testName": "Technology, Media and Telco",
+    "status": "PASS",
+    "message": "Internal link 'Technology, Media and Telco' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:03:59.549Z",
+    "testName": "Supply Chain and Logistics",
+    "status": "PASS",
+    "message": "Internal link 'Supply Chain and Logistics' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:05:01.759Z",
+    "testName": "Hospitality and Tourism",
+    "status": "ERROR",
+    "message": "Error testing internal link 'Hospitality and Tourism': timeout: Timed out receiving message from renderer: 60.000\n  (Session info: chrome=133.0.6943.141)"
+  },
+  {
+    "timestamp": "2025-03-05T03:05:09.787Z",
+    "testName": "Discrete Manufacturing",
+    "status": "PASS",
+    "message": "Internal link 'Discrete Manufacturing' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:05:17.574Z",
+    "testName": "AI Managed Services",
+    "status": "PASS",
+    "message": "Internal link 'AI Managed Services' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:05:55.407Z",
+    "testName": "Kubernetes Managed Services",
+    "status": "PASS",
+    "message": "Internal link 'Kubernetes Managed Services' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:06:04.946Z",
+    "testName": "SRE as a Service",
+    "status": "PASS",
+    "message": "Internal link 'SRE as a Service' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:06:14.301Z",
+    "testName": "Data Managed Services",
+    "status": "PASS",
+    "message": "Internal link 'Data Managed Services' navigated successfully."
+  },
+  {
+    "timestamp": "2025-03-05T03:06:18.686Z",
+    "testName": "Analytics Managed Services",
+    "status": "FAIL",
+    "message": "No href attribute found."
+  },
+  {
+    "timestamp": "2025-03-05T03:07:18.841Z",
+    "testName": "Data Protection",
+    "status": "ERROR",
+    "message": "Error testing internal link 'Data Protection': timeout: Timed out receiving message from renderer: 60.000\n  (Session info: chrome=133.0.6943.141)"
+  }
+]

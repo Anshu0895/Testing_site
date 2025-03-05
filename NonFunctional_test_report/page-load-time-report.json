@@ -1,0 +1,12 @@
+{
+  "date": "2025-03-05T07:53:13.705Z",
+  "executionTime": "1.56 seconds",
+  "testResults": [
+    {
+      "url": "https://www.xenonstack.com/",
+      "responseTime": "1558.76 ms",
+      "status": "Passed",
+      "errorMessage": ""
+    }
+  ]
+}
