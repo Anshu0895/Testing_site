@@ -181,8 +181,8 @@ function saveHtmlReport() {
             logResult("Required Field Validation", "FAIL", "Error message did not appear. Required field validation test failed.");
         }
 
-        // Fill in the form with incorrect email format
-        console.log("Testing form submission with incorrect email format...");
+        // Fill in the form with incorrect phone number 
+        console.log("Testing form submission with incorrect phone number...");
         await driver.get("https://www.xenonstack.com/");
         await driver.manage().window().setRect({ width: 1850, height: 1053 });
         startButton = await driver.wait(until.elementLocated(By.css("a > span")), 10000);
@@ -199,11 +199,11 @@ function saveHtmlReport() {
 
         emailid = await driver.wait(until.elementLocated(By.id("emailid")), 10000);
         await ensureInteractable(emailid);
-        await emailid.sendKeys("swap[at]gmail.com");
+        await emailid.sendKeys("swap@gmail.com");
 
         contactnumber = await driver.wait(until.elementLocated(By.id("contactnumber")), 10000);
         await ensureInteractable(contactnumber);
-        await contactnumber.sendKeys("7865432112");
+        await contactnumber.sendKeys("78654321124444");
 
         companyname = await driver.wait(until.elementLocated(By.id("companyname")), 10000);
         await ensureInteractable(companyname);
